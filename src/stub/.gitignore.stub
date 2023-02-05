@@ -1,0 +1,6 @@
+vendor/
+.idea/
+.git/
+*.cache
+.DS_Store
+.env

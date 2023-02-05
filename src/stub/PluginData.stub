@@ -1,0 +1,8 @@
+{
+  "name": "{plugin_name}",
+  "description": "{plugin_desc}",
+  "version": "{plugin_version}",
+  "author": "{plugin_author}",
+  "link": "{plugin_link}",
+  "masterVersion": "{plugin_sforum_version}"
+}
